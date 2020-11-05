@@ -1,5 +1,5 @@
 //key note capitalis DO MATTER
-const Potion = require('../lib/Potions.js');
+const Potion = require('../lib/Potion.js');
 
 test('creates a random potion object', () => {
   const potion = new Potion();
